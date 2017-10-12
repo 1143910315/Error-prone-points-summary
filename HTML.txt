@@ -1,2 +1,4 @@
 ﻿<textarea rows="16" cols="1" ></textarea>
 注：rows会影响textarea的高度，textarea的高度由rows和font-size共同决定，使用rows时应注意font-size以适配各种浏览器
+给标签的title里加入用户输入的文本时，要注意单引号和双引号的转义
+&apos;是单引号，&quot;是双引号
