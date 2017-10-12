@@ -1,0 +1,2 @@
+﻿<textarea rows="16" cols="1" ></textarea>
+注：rows会影响textarea的高度，textarea的高度由rows和font-size共同决定，使用rows时应注意font-size以适配各种浏览器
